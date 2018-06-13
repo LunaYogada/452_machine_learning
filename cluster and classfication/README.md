@@ -24,3 +24,15 @@ Data Scientist use cluster analysis to gain some valuable insights from our data
   Hierarchical clustering algorithms actually fall into 2 categories: top-down or bottom-up. Bottom-up algorithms treat each data point as a single cluster at the outset and then successively merge (or agglomerate) pairs of clusters until all clusters have been merged into a single cluster that contains all data points. Bottom-up hierarchical clustering is therefore called hierarchical agglomerative clustering or HAC. This hierarchy of clusters is represented as a tree (or dendrogram). The root of the tree is the unique cluster that gathers all the samples, the leaves being the clusters with only one sample.
 
 ## Classfication
+In machine learning , classification is the set of categories (sub-populations) a new observation belongs, on the basis of a training set of data containing observations (or instances) whose category membership is known.
+
+Common algorithm:
+
+* **Logistic Regression**
+* **support vector machines (svm)**
+
+  [abalone classification](https://github.com/LunaYogada/452_machine_learning/blob/master/cluster%20and%20classfication/abalone%20classification.ipynb)
+  [Select best SVM parameter by GridSearchCV](https://github.com/LunaYogada/452_machine_learning/blob/master/cluster%20and%20classfication/plot_iris_dataset.ipynb)
+* **Decision Trees**
+* **Random Forest**
+* **Naive Bayes**
