@@ -32,6 +32,7 @@ Common algorithm:
 * **support vector machines (svm)**
 
   [abalone classification](https://github.com/LunaYogada/452_machine_learning/blob/master/cluster%20and%20classfication/abalone%20classification.ipynb)
+  
   [Select best SVM parameter by GridSearchCV](https://github.com/LunaYogada/452_machine_learning/blob/master/cluster%20and%20classfication/plot_iris_dataset.ipynb)
 * **Decision Trees**
 * **Random Forest**
