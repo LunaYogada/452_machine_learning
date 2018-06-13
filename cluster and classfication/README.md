@@ -40,4 +40,6 @@ Common algorithm:
 * **Random Forest/ Extra Trees/AdaBoost/Stochastic Gradient Boosting**
 
   [Classification for user activation group](https://github.com/LunaYogada/452_machine_learning/blob/master/cluster%20and%20classfication/Classification%20for%20user%20activation%20group.ipynb)
+  
+  [Titanic important features with Random Forest](https://github.com/LunaYogada/452_machine_learning/blob/master/cluster%20and%20classfication/Titanic%20important%20features%20with%20Random%20Forest%20.ipynb)
 * **Naive Bayes**
