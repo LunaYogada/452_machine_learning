@@ -31,12 +31,18 @@ In machine learning , classification is the set of categories (sub-populations) 
 Common algorithm:
 
 * **Logistic Regression**
+
+  [Titanic alive classification](https://github.com/LunaYogada/452_machine_learning/blob/master/cluster%20and%20classfication/Titanic%20alive%20classification.ipynb)
+  
 * **support vector machines (svm)**
 
   [abalone classification](https://github.com/LunaYogada/452_machine_learning/blob/master/cluster%20and%20classfication/abalone%20classification.ipynb)
   
   [Select best SVM parameter by GridSearchCV](https://github.com/LunaYogada/452_machine_learning/blob/master/cluster%20and%20classfication/plot_iris_dataset.ipynb)
 * **Decision Trees**
+
+  [Titanic alive classification](https://github.com/LunaYogada/452_machine_learning/blob/master/cluster%20and%20classfication/Titanic%20alive%20classification.ipynb)
+
 * **Random Forest/ Extra Trees/AdaBoost/Stochastic Gradient Boosting**
 
   [Classification for user activation group](https://github.com/LunaYogada/452_machine_learning/blob/master/cluster%20and%20classfication/Classification%20for%20user%20activation%20group.ipynb)
