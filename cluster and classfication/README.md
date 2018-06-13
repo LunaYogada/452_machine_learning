@@ -37,5 +37,7 @@ Common algorithm:
   
   [Select best SVM parameter by GridSearchCV](https://github.com/LunaYogada/452_machine_learning/blob/master/cluster%20and%20classfication/plot_iris_dataset.ipynb)
 * **Decision Trees**
-* **Random Forest**
+* **Random Forest/ Extra Trees/AdaBoost/Stochastic Gradient Boosting**
+
+  [Classification for user activation group](https://github.com/LunaYogada/452_machine_learning/blob/master/cluster%20and%20classfication/Classification%20for%20user%20activation%20group.ipynb)
 * **Naive Bayes**
