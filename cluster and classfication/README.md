@@ -12,6 +12,8 @@ Data Scientist use cluster analysis to gain some valuable insights from our data
   Example: [Classify tips dataset with Kmeans](https://github.com/LunaYogada/452_machine_learning/blob/master/cluster%20and%20classfication/Classify%20tips%20dataset%20with%20Kmeans.ipynb)
   
   [select best k](https://github.com/LunaYogada/452_machine_learning/blob/master/cluster%20and%20classfication/Classify%20iris%20dataset%20with%20Kmeans.ipynb)
+  
+  [PCA cluster with healthcare data](https://github.com/LunaYogada/452_machine_learning/blob/master/cluster%20and%20classfication/Healthcare%20cluster.ipynb)
 
 * **Mean-Shift Clustering**
 
