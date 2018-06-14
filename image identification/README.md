@@ -8,5 +8,4 @@ This folder contains projects related to image identification as followed:
   * [Use tensorflow for dog breed identification](https://github.com/LunaYogada/452_machine_learning/blob/master/image%20identification/dog%20breed%20identification.ipynb)
 
   * [Face Recognition with PCA and SVC](https://github.com/LunaYogada/452_machine_learning/blob/master/image%20identification/Face%20Recognition.ipynb)
-  
-  Applied random PCA to deduct dimension of celebrities' faces and SVC to classify the name of faces, with GridSearchCV to select the best parameter and visualize the result with confusion_matrix.
+  * Applied random PCA to deduct dimension of celebrities' faces and SVC to classify the name of faces, with GridSearchCV to select the best parameter and visualize the result with confusion_matrix.
